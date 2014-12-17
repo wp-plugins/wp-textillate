@@ -1,3 +1,4 @@
+=== Plugin Name ===
 Contributors: CodeFields
 Tags: text,text moving, textillate
 Requires at least: 3.1
