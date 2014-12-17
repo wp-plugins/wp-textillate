@@ -2,9 +2,9 @@
 /*
 Plugin Name: Wp Textillate
 Plugin URI:
-Description: A brief description of the Plugin.
-Version: 1.0
-Author: Wp-Textillate <aeon@gmail.com>
+Author: CodeField <codefield.group@gmail.com>
+Description: The WP Textillate plugin allows you to shown text moving form into web forms.
+Version: 0.0.1
 */
 
 // Avoid name collisions.
@@ -19,7 +19,7 @@ if (!class_exists('WpTextillate')) {
          *
          * @const string
          */
-        const VERSION = '0.1';
+        const VERSION = '0.0.1';
 
         /**
          * The url to the plugin
