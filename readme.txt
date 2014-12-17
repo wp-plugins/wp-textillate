@@ -19,13 +19,13 @@ This may be located in widgets or shordcode inside pages or post.
 == Functionalities ==
 
 Add custom content blocks moving into several areas of widgets or insert with shortcode.
- 
-== Installation == 
+
+== Installation ==
  
 1. Upload the `wp-textillate` folder to the `/wp-content/plugins/` directory. 
 2. Activate the plugin via the 'Plugins' menu in WordPress. 
 3. Plugin settings are located in "WP Textillate". 
- 
+
 == Changelog == 
  
 = V0.0.1 = 
