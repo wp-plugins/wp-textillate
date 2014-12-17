@@ -4,7 +4,7 @@ Plugin Name: Wp Textillate
 Plugin URI:
 Author: CodeField <codefield.group@gmail.com>
 Description: The WP Textillate plugin allows you to shown text moving form into web forms.
-Version: 0.0.1
+Version: 0.0.2
 */
 
 // Avoid name collisions.
@@ -19,7 +19,7 @@ if (!class_exists('WpTextillate')) {
          *
          * @const string
          */
-        const VERSION = '0.0.1';
+        const VERSION = '0.0.2';
 
         /**
          * The url to the plugin
