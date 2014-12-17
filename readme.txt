@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: CodeFields
+Contributors: codefield
 Tags: text,text moving, textillate
 Requires at least: 3.1
 Tested up to: 4.0.1
