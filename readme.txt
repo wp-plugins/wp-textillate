@@ -6,7 +6,7 @@ Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
  
-This plugin allows you to shown text moving form into web forms.
+The WP Textillate plugin allows you to shown text moving form into web forms.
  
 == Description == 
  
