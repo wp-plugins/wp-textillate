@@ -19,7 +19,7 @@ if (!class_exists('WpTextillate')) {
          *
          * @const string
          */
-        const VERSION = '0.1';
+        const VERSION = '0.0.1';
 
         /**
          * The url to the plugin
