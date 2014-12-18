@@ -36,7 +36,7 @@ Add custom content blocks moving into several areas of widgets or insert with sh
 2. Activate the plugin via the 'Plugins' menu in WordPress. 
 3. Plugin settings are located in "WP Textillate". 
  
-== Changelog == 
- 
+== Changelog ==
+
 = V0.0.1 = 
 functionality and level of difficulty was implemented.

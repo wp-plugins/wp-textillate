@@ -1,3 +1,5 @@
+**Plugin Name**
+
 Contributors: CodeFields
 Tags: text,text moving, textillate
 Requires at least: 3.1
@@ -8,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
  
 The WP Textillate plugin allows you to shown text moving form into web forms.
 
-== Description == 
+**Description**
  
 The WP Textillate plugin allows you to shown text moving form into web forms. 
 
@@ -16,17 +18,17 @@ This plugin does is encourage one or many texts with different animations and ef
 
 This may be located in widgets or shordcode inside pages or post.
  
-== Functionalities ==
+**Functionalities**
 
 Add custom content blocks moving into several areas of widgets or insert with shortcode.
  
-== Installation == 
+**Installation**
  
 1. Upload the `wp-textillate` folder to the `/wp-content/plugins/` directory. 
 2. Activate the plugin via the 'Plugins' menu in WordPress. 
 3. Plugin settings are located in "WP Textillate". 
  
-== Changelog == 
+**Changelog** 
  
 = V0.0.1 = 
 functionality and level of difficulty was implemented.
