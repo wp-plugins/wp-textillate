@@ -7,15 +7,19 @@ Stable tag: 0.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
  
-The WP Textillate plugin allows you to shown text moving form into web forms.
+The plugin allows you to add moving text with different animations both widgets and content via shortcode.
  
 == Description == 
  
-The WP Textillate plugin allows you to shown text moving form into web forms. 
+The plugin allows you to add moving text with different animations both widgets and content via shortcode.
 
-This plugin does is encourage one or many texts with different animations and effects, both at the entrance and exit text.
+This plugnins gives you the ability to make animations both text entry and exit of the text,
+making it very attractive page or content where they are located.
 
 This may be located in widgets or shordcode inside pages or post.
+
+We invite you to try it and let us your review.
+
  
 == Functionalities ==
 
@@ -37,6 +41,9 @@ Add custom content blocks moving into several areas of widgets or insert with sh
 3. Plugin settings are located in "WP Textillate". 
  
 == Changelog ==
+
+= V0.0.2 =
+Fixed the transduction Description and so on.
 
 = V0.0.1 = 
 functionality and level of difficulty was implemented.

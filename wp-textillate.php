@@ -3,7 +3,7 @@
 Plugin Name: Wp Textillate
 Plugin URI:
 Author: CodeField <codefield.group@gmail.com>
-Description: The WP Textillate plugin allows you to shown text moving form into web forms.
+Description: The plugin allows you to add moving text with different animations both widgets and content via shortcode.
 Version: 0.0.2
 */
 
