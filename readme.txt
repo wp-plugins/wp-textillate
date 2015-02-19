@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: codefield
-Tags: text,text moving, textillate
+Tags: text,text moving, textillate, CSS3
 Requires at least: 3.1
 Tested up to: 4.0.1
 Stable tag: 0.0.2
@@ -11,12 +11,19 @@ The plugin allows you to add moving text with different animations both widgets 
  
 == Description == 
  
-The plugin allows you to add moving text with different animations both widgets and content via shortcode.
+The plugin allows you to add moving text with different animations both widgets and content by shortcode.
 
-This plugnins gives you the ability to make animations both text entry and exit of the text,
+This plugins gives you the ability to make animations both text entry and exit of the text,
 making it very attractive page or content where they are located.
 
+A simple plugin for CSS3 text animations.
+
 This may be located in widgets or shordcode inside pages or post.
+
+Dependencies:
+
+WP-textillate depends on the following libraries:
+Textillate.js by Jordan Schroter.
 
 We invite you to try it and let us your review.
 
@@ -43,7 +50,7 @@ Add custom content blocks moving into several areas of widgets or insert with sh
 == Changelog ==
 
 = V0.0.2 =
-Fixed the transduction Description and so on.
+Fixed the translation Description and so on.
 
 = V0.0.1 = 
 functionality and level of difficulty was implemented.
